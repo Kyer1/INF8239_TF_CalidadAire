@@ -1,0 +1,39 @@
+{
+  "rows": 43824,
+  "start": "2010-01-01 00:00:00",
+  "end": "2014-12-31 23:00:00",
+  "missing_hours": 0,
+  "duplicate_timestamps": 0,
+  "nulls": {
+    "pm25": 2067
+  },
+  "pm25_missing_pct": 4.72,
+  "pm25_describe": {
+    "count": 41757.0,
+    "mean": 98.6,
+    "std": 92.1,
+    "min": 0.0,
+    "25%": 29.0,
+    "50%": 72.0,
+    "75%": 137.0,
+    "max": 994.0
+  },
+  "pct_hours_above_threshold": 48.5,
+  "modeling_rows": {
+    "train": 23871,
+    "valid": 8605,
+    "test": 8556
+  },
+  "high_rate": {
+    "train": 0.486,
+    "valid": 0.478,
+    "test": 0.481
+  },
+  "missing_pm25_by_year": {
+    "2010": 669,
+    "2011": 728,
+    "2012": 489,
+    "2013": 82,
+    "2014": 99
+  }
+}

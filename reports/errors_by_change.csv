@@ -1,0 +1,6 @@
+cambio,acierto,falso_negativo,falso_positivo
+baja >150,136,5,242
+baja 50–150,554,18,576
+estable ±50,4339,211,809
+sube 50–150,1103,373,3
+sube >150,166,21,0

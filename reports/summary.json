@@ -1,0 +1,17 @@
+{
+  "selected_model": "gradient_boosting",
+  "threshold": 0.45,
+  "horizon_hours": 12,
+  "rows": {
+    "train": 23871,
+    "valid": 8605,
+    "test": 8556
+  },
+  "test_high_rate": 0.48083216456287986,
+  "environment": {
+    "python": "3.12.16",
+    "platform": "Windows-11-10.0.26300-SP0",
+    "processor": "Intel64 Family 6 Model 186 Stepping 3, GenuineIntel",
+    "scikit_learn": "1.9.1"
+  }
+}
